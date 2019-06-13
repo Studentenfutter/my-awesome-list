@@ -5,6 +5,7 @@ These are my personal findings of all things R and Data Science related things, 
 ## Contents:
 
 [Visualisierungen](Visualisierungen)
+[Web Scraping](Web Scraping)
 
 ## Visualisierungen
 
@@ -19,3 +20,7 @@ These are my personal findings of all things R and Data Science related things, 
 
 ### D3
 - [r2d3](https://rstudio.github.io/r2d3/) - R interface to D3.js
+
+## Web Scraping
+
+- [CSS Diner](https://flukeout.github.io/) - Nice tutorial on CSS Selectors used in Web Scraping
